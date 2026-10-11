@@ -122,9 +122,7 @@ Each problem needs:
 
 ---
 
-## 📄 License
 
-MIT — free to use, modify, and share.
 
 ---
 
